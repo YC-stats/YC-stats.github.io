@@ -3,8 +3,6 @@ permalink: /publications/
 title: "Markdown"
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 
 ## Locations of key files/directories
