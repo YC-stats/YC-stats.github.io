@@ -12,8 +12,8 @@ I completed my Ph.D. degree from School of Mathematics at Jilin University of Ch
 
 Research Interests
 ======
-Functional time series analysis
-Non-parametric estimation and inference
-Nonlinear and non-stationary time series
-Data privacy
-Change point problem
+-Functional time series analysis
+-Non-parametric estimation and inference
+-Nonlinear and non-stationary time series
+-Data privacy
+-Change point problem
