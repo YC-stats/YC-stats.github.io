@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Markdown"
+title: "publications"
 author_profile: true
 redirect_from: 
 ---
