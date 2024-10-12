@@ -4,7 +4,7 @@ author_profile: true
 redirect_from: 
 ---
 
-## Publications
+## Published Articles
 
 * **Cui, Y.**, Yang, J. and Zhou, Z. (2023) State-domain change point detection for nonlinear time series regression. *Journal of Econometrics*, 234, 3--27. DOI: [10.1016/j.jeconom.2021.11.007](https://doi.org/10.1016/j.jeconom.2021.11.007)
 * **Cui, Y.**, Levine, M. and Zhou, Z. (2021) Estimation and inference of time-varying auto-covariance under complex trend: a difference-based approach. *Electronic Journal of Statistics*, 15, 4264--4294. DOI: [10.1214/21-EJS1893](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-2/Estimation-and-inference-of-time-varying-auto-covariance-under-complex/10.1214/21-EJS1893.full)
