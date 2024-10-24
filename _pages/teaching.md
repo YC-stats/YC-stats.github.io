@@ -7,7 +7,7 @@ redirect_from:
 ## Teaching Experience
 
 * MATH 141 Introduction to Probability and Statistics, 2024 Fall, Reed College \\
-  [syllabus](), [course materials]()
+  [syllabus](http://yc-stats.github.io/files/Math 141 Syllabus.pdf), [course materials]()
 * STAT 361 Sampling Techniques, 2024 Winter, University of Alberta \\
   [syllabus](), [course materials]()
 
