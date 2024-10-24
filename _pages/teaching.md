@@ -9,7 +9,7 @@ redirect_from:
 * MATH 141 Introduction to Probability and Statistics, 2024 Fall, Reed College \\
   [syllabus](http://yc-stats.github.io/files/Math_141_Syllabus.pdf), [course materials]()
 * STAT 361 Sampling Techniques, 2024 Winter, University of Alberta \\
-  [syllabus](http://yc-stats.github.io/files/2024-Winterl-STAT361-Q2-Syllabus.pdf), [course materials](http://yc-stats.github.io/files/STATS_361_slides.zip)
+  [syllabus](http://yc-stats.github.io/files/2024-Winterl-STAT361-Q2-Syllabus.pdf), [course materials](https://drive.google.com/drive/folders/1besuGxOZdGBu1zw2kiazAwj6vQTVjpJa?usp=sharing)
 
 ## Assistant Experience
 * STA 2530 Applied Time Series Analysis, 2022 Fall, University of Toronto
