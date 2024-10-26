@@ -21,7 +21,7 @@ repository               : "YC-stats/YC-stats.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.HEIC"
+  avatar           : "AVARTAR.jpg"
   name             : "Yan Cui"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in statistics"
