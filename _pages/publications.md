@@ -6,6 +6,7 @@ redirect_from:
 
 ## Published Articles
 
+* **Cui, Y.** and Zhou, Z. (2025) Optimal short-term forecast for locally stationary functional time series. *IEEE: Transactions on Information Theory*, accepted, [arXiv:2307.09148](arXiv:2307.09148)
 * **Cui, Y.**, Yang, J. and Zhou, Z. (2023) State-domain change point detection for nonlinear time series regression. *Journal of Econometrics*, 234, 3--27. DOI: [10.1016/j.jeconom.2021.11.007](https://doi.org/10.1016/j.jeconom.2021.11.007)
 * **Cui, Y.**, Levine, M. and Zhou, Z. (2021) Estimation and inference of time-varying auto-covariance under complex trend: a difference-based approach. *Electronic Journal of Statistics*, 15, 4264--4294. DOI: [10.1214/21-EJS1893](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-2/Estimation-and-inference-of-time-varying-auto-covariance-under-complex/10.1214/21-EJS1893.full)
 * **Cui, Y.**, Li, Q. and Zhu, F. (2021). Modeling $\mathbb{Z}$-valued time series based on new versions of the Skellam INGARCH model. *Brazilian Journal of Probability and Statistics*, 35, 292--314. DOI: [10.1214/20-BJPS473](https://projecteuclid.org/journals/brazilian-journal-of-probability-and-statistics/volume-35/issue-2/Modeling-Z-valued-time-series-based-on-new-versions-of/10.1214/20-BJPS473.short)
@@ -18,6 +19,5 @@ DOI: [10.1007/s10260-019-00498-2](https://doi.org/10.1007/s10260-019-00498-2)
 ## Preprints and Manuscripts
 
 * **Cui, Y.** and Zhou, Z. (2024+) Simultaneous inference for time series functional linear regression. *Journal of the Royal Statistical Society, Series B*, invited revision submitted, [arXiv:2207.11392](arXiv:2207.11392)
-* **Cui, Y.** and Zhou, Z. (2024+) Optimal short-term forecast for locally stationary functional time series. *IEEE Transactions on Information Theory*, invited revision submitted, [arXiv:2307.09148](arXiv:2307.09148)
 * **Cui, Y.**, Jiang, B. and Charest, A-S. (2024+) Quantifying Trade-off between Privacy and Utility via DA-TS Synthetic Time Series Generation Mechanism.
 * **Cui, Y.** and Zhou, Z. (2024+) Fully functional simultaneous inference for locally stationary functional time series.
