@@ -6,6 +6,7 @@ redirect_from:
 
 ## Conference and Seminar Presentations
 
+* The 18th International Joint Conference on Computational and Financial Econometrics–Computational and Methodological Statistics, Hybrid Conference, London, United Kingdom, 2024
 * The Sixth ICSA-Canada Chapter Symposium, Niagara Falls, Canada, 2024.
 * The Fifth ICSA-Canada Chapter Symposium–Statistics, Banff, Canada, 2022.
 * The Fifth International Conference on Econometrics and Statistics, Kyoto, Japan (virtual conference), 2022.
