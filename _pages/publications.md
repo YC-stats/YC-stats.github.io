@@ -6,7 +6,7 @@ redirect_from:
 
 ## Published Articles
 
-* **Cui, Y.** and Zhou, Z. (2025) Optimal short-term forecast for locally stationary functional time series. *IEEE: Transactions on Information Theory*, accepted, [arXiv:2307.09148](arXiv:2307.09148)
+* **Cui, Y.** and Zhou, Z. (2025) Optimal short-term forecast for locally stationary functional time series. *IEEE: Transactions on Information Theory*, 71, 2872--2887. DOI: [10.1109/TIT.2025.3536463](https://ieeexplore.ieee.org/document/10858073)
 * **Cui, Y.**, Yang, J. and Zhou, Z. (2023) State-domain change point detection for nonlinear time series regression. *Journal of Econometrics*, 234, 3--27. DOI: [10.1016/j.jeconom.2021.11.007](https://doi.org/10.1016/j.jeconom.2021.11.007)
 * **Cui, Y.**, Levine, M. and Zhou, Z. (2021) Estimation and inference of time-varying auto-covariance under complex trend: a difference-based approach. *Electronic Journal of Statistics*, 15, 4264--4294. DOI: [10.1214/21-EJS1893](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-2/Estimation-and-inference-of-time-varying-auto-covariance-under-complex/10.1214/21-EJS1893.full)
 * **Cui, Y.**, Li, Q. and Zhu, F. (2021). Modeling Z-valued time series based on new versions of the Skellam INGARCH model. *Brazilian Journal of Probability and Statistics*, 35, 292--314. DOI: [10.1214/20-BJPS473](https://projecteuclid.org/journals/brazilian-journal-of-probability-and-statistics/volume-35/issue-2/Modeling-Z-valued-time-series-based-on-new-versions-of/10.1214/20-BJPS473.short)
