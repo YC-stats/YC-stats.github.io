@@ -18,7 +18,7 @@ DOI: [10.1007/s10260-019-00498-2](https://doi.org/10.1007/s10260-019-00498-2)
 
 ## Preprints and Manuscripts
 
-* **Cui, Y.**, Yuan, S. and Zhou, Z. (2025+) Inference for non-stationary time series quantile regression with inequality constraints. *Statistica Sinica*, accepted, [preprint](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0108_na.pdf)
-* **Cui, Y.** and Zhou, Z. (2024+) Simultaneous inference for time series functional linear regression. *Journal of the Royal Statistical Society, Series B*, invited revision, [arXiv:2207.11392](arXiv:2207.11392)
+* **Cui, Y.**, Yuan, S. and Zhou, Z. (2025+) Inference for non-stationary time series quantile regression with inequality constraints. *Statistica Sinica*, accepted, [preprint](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0108_na.pdf).
+* **Cui, Y.** and Zhou, Z. (2024+) Simultaneous inference for time series functional linear regression. *Journal of the Royal Statistical Society, Series B*, invited revision, [arXiv:2207.11392](arXiv:2207.11392).
 * **Cui, Y.**, Jiang, B. and Charest, A-S. (2024+) Quantifying Trade-off between Privacy and Utility via DA-TS Synthetic Time Series Generation Mechanism, *Journal of Machine Learning Research*, invited revision.
 * **Cui, Y.** and Zhou, Z. (2024+) Fully functional simultaneous inference for locally stationary functional time series.
