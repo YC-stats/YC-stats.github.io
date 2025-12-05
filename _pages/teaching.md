@@ -6,6 +6,7 @@ redirect_from:
 
 ## Teaching Experience
 
+* MAT 150 Fundamentals Of Statistical Reasoning, 2025 Fall, Illinois State University
 * MATH 241 Data Science, 2025 Spring, Reed College 
 * MATH 243 Statistical Learning, 2025 Spring, Reed College   
 * MATH 141 Introduction to Probability and Statistics, 2024 Fall, Reed College \\
